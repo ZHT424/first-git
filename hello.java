@@ -15,6 +15,7 @@ public static void mian(String[] arry){
 	sout("张三");
 	sout(alipay);
 	zht;
-	mmmmmmm;	
+	mmmmmmm;
+	sb;
 }
 
