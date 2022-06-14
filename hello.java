@@ -17,5 +17,6 @@ public static void mian(String[] arry){
 	zht;
 	mmmmmmm;
 	sb;
+	88888;
 }
 
